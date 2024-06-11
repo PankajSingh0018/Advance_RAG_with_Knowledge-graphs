@@ -1,0 +1,6 @@
+spacy
+PyPDF2
+numpy
+networkx
+faiss-cpu
+sentence-transformers
